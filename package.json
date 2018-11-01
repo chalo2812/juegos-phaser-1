@@ -1,0 +1,23 @@
+{
+  "name": "intento1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cocos": "0.0.2",
+    "createjs": "^1.0.1",
+    "easeljs": "^1.0.2",
+    "phaser": "^3.15.1",
+    "preloadjs": "^1.0.1",
+    "quintus": "^0.2.0",
+    "soundjs": "^1.0.1",
+    "tweenjs": "^1.0.2",
+    "vue": "^2.5.17",
+    "vue-cli": "^2.9.6"
+  }
+}
